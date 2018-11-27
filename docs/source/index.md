@@ -1,13 +1,20 @@
 ---
 
-title: Scooter has been deprecated
+title: Welcome to Scooter
 
 ---
 
-Scooter was a SCSS framework built to provide base styles, CSS
-components, and rapid static prototyping for Dropbox. You can still find [Scooter on Github](https://github.com/dropbox/scooter).
+Welcome to Scooter: an SCSS framework built to provide base styles, CSS
+components, and rapid static prototyping for Dropbox.
 
-Big thanks to [Dan](https://github.com/daneden), [Abraham](https://github.com/lunaroja), [Hugo](https://github.com/HugoGiraudel), [Taylor](https://github.com/taylorlapeyre), [Muhammad](https://github.com/mbilalsiddique1), [Alexander](https://github.com/haniotis), [Kaelig](https://github.com/kaelig), [Patrick](https://github.com/patrickhlauke), and [Seiei](https://github.com/hanachin) for contributing.
+- Explore the docs through the top navigation to learn more
+- Read the [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide)
+
+## Contributing
+
+For anything beyond minor contributions, such as spelling corrections and minor doc
+fixes, you must agree to [Dropbox’s CLA](https://opensource.dropbox.com/cla/). This
+grants us an explicit license to the contributed code.
 
 ## License
 
