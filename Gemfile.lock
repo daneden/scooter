@@ -43,7 +43,7 @@ GEM
       uber (~> 0.0.14)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
-    json (1.8.3)
+    json (1.8.6)
     kramdown (1.10.0)
     listen (2.10.1)
       celluloid (~> 0.16.0)
@@ -156,4 +156,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.12.4
+   1.17.1
